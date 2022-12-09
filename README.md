@@ -8,7 +8,7 @@ Built this black jack game with raw javascript. With this project I learned how 
 
 ## Tech Stack
 
-HTML / CSS & Vanilla JavaScript
+HTML, CSS & Vanilla JavaScript
 
 
 
