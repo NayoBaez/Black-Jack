@@ -4,7 +4,7 @@
 
 Converted this Airbnb Experience clone from a figma design into React.js as part of a Scrimba course solo challenge. The requirements were to recreate an application from a popular company who uses React.js. Relies on the map() function to render Javascript array of objects to the DOM.
 
-<img align="right" alt="portfolio" width="350" src="https://raw.githubusercontent.com/NayoBaez/Airbnb-Experiences/master/AIRBNB%20CLONE.png"></img>
+<img align="right" alt="portfolio" width="350" src="https://raw.githubusercontent.com/NayoBaez/Black-Jack/main/_project%20screenshots%20-blackjack.png"></img>
 
 ## Tech Stack
 
